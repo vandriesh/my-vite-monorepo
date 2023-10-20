@@ -1,6 +1,7 @@
 import styled from '@emotion/styled';
 
 import NxWelcome from './nx-welcome';
+import './test.js'
 
 const StyledApp = styled.div`
   // Your style here
